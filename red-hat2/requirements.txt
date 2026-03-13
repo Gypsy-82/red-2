@@ -1,0 +1,5 @@
+colorama
+requests
+python-nmap
+python-dotenv
+wafw00f
